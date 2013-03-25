@@ -1,4 +1,4 @@
-capture-pc-linux
-================
+intensity-capture-encode
+========================
 
-capture-pc-linux
+blackmagic intensity pro capture video ,and encoder ,then generate ts files (HLS)
